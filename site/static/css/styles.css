@@ -8,8 +8,8 @@
 /* Default */
 /* ======= Base ======= */
 body {
-  /*font-family: 'Lato', arial, sans-serif;*/
   font-family: 'Montserrat', sans-serif;
+  /*font-family: 'League Gothic';*/
   color: #444444;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -124,7 +124,7 @@ pre code {
   text-decoration: none;
 }
 .header .main-nav button {
-  background: rgba(255,255,255,.7);
+  /*background: rgba(255,255,255,.7);*/
   color: #fff !important;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
